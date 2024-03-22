@@ -29,7 +29,7 @@ In this application, the user recieves a series of prompts to create a README fi
 
   ## Usage
 
-
+## Campaign Table
   ![README-generator-screenshot](Resources/Pictures/Campaign_Table.png)
  
 

@@ -30,7 +30,7 @@ In this application, the user recieves a series of prompts to create a README fi
   ## Usage
 
 
-  ![README-generator-screenshot](./Resources/Pictures/Campaign_Table.png)
+  ![README-generator-screenshot](../Resources/Pictures/Campaign_Table.png)
   [Demo](https://drive.google.com/file/d/1ZoxOXcg0whqYLVceZAtBcLbHg3SSsKf2/view)
 
 

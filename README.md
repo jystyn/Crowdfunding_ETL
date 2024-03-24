@@ -4,7 +4,7 @@
   
 ## Instructions
 
-We were tasked with building and ETL pipeline using Python, Pandas and Pything dictionary methods to transform data. We uploaded our files into a Postgress database to create a unique database. The Instructions for this project are divided into the following subsections and were divided between us as follows:
+We were tasked with building and ETL pipeline using Python, Pandas and Python dictionary methods to transform data. We uploaded our files into a Postgress database to create a unique database. The Instructions for this project are divided into the following subsections and were divided between us as follows:
 
 1. Create the Category and Subcategory DataFrames 
     * Justyn Helgeson

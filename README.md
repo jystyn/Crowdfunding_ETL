@@ -6,10 +6,17 @@
 
 The Instructions for this project are divided into the following subsections and were divided between us as follows:
 
-Create the Category and Subcategory DataFrames - Justyn Helgeson
-Create the Campaign DataFrame - Justyn Helgeson
-Create the Contacts DataFrame - Gabby Kruger
-Create the Crowdfunding Database - Gabby Kruger
+1. Create the Category and Subcategory DataFrames 
+  * Justyn Helgeson
+
+2. Create the Campaign DataFrame
+  * Justyn Helgeson
+
+3. Create the Contacts DataFrame -
+  * Gabby Kruger
+
+4. Create the Crowdfunding Database
+  * Gabby Kruger
 
 
 ## Table of Contents

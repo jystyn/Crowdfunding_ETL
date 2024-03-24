@@ -74,7 +74,8 @@ We were tasked with building and ETL pipeline using Python, Pandas and Pything d
   ![README-generator-screenshot](Resources/Pictures/Campaign_Table.png)
  
 ## Category Table
-  ![README-generator-screenshot](Resources/Pictures/Category_table.png)
+![Category_table](https://github.com/jystyn/Crowdfunding_ETL/assets/151480655/1a3d032b-18a9-43e0-8153-c4fd54e2de94)
+
 
 ## Contacts Table
   ![README-generator-screenshot](Resources/Pictures/Contacts_Table.png)

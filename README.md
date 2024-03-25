@@ -86,16 +86,3 @@ We were tasked with building and ETL pipeline using Python, Pandas and Python di
 ## Crowdfunding ERD
   ![README-generator-screenshot](Resources/Pictures/Crowdfunding_DBD.png)
  
-  
-
-
-
-
-
-
-  ## Questions
-
-
-  [GitHub](https:github.com/jystyn)
-
-  [E-Mail](mailto:justyn.helgeson@gmail.com)
